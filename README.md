@@ -32,6 +32,7 @@
 * ~[-] Battery percentage~
 * [-] Airdrop
 * [-] Handoff
+* [-] Sleep
 
 # Working
 * [+] WiFi
