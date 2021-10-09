@@ -8,10 +8,10 @@
 * Thanks for settings of bios: @rsadev69
 
 # Kexts
-* ACPIBatteryManager.kext
+* ~ACPIBatteryManager.kext~
 * Airportitlwm.kext
 * AppleALC.kext
-* ECEnabler.kext
+* ~ECEnabler.kext~
 * HibnernationFixup.kext
 * IntelBluetoothFirmware.kext
 * IntelBluetoothInjector.kext
@@ -29,7 +29,7 @@
 * X86PlatformPluginInjector.kext
 
 # Not working
-* [-] Battery percentage
+* ~[-] Battery percentage~
 * [-] Airdrop
 * [-] Handoff
 
@@ -39,6 +39,7 @@
 * [+] Sound
 * [+] Graphics
 * [+] USB
+* [+] Battery percentage
 
 # Mac OS
 * [!] Only Mac Os Catalina yet!
